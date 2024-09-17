@@ -65,7 +65,7 @@ def get_chain(file_location):
     return chain
 
 if __name__ == "__main__":
-    data_location = 'data/test.json'
+    data_location = 'data/filtered.json'
     file_location = 'vectorDB'
     vector_database(data_location, file_location)
     chain = get_chain(file_location)
