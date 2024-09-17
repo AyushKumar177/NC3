@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf
+sentence-transformer
+json
+os
+genai
